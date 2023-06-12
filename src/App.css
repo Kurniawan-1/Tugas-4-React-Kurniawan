@@ -1,0 +1,19 @@
+.App {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Galaxy {
+    width: 23%;
+    margin: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px 0;
+}
+
+img {
+    width: 100%;
+}
+
+button {
+background-color: rgb(97, 241, 97);
+}
